@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-parse-ndjson/tags). For example,
+
+```javascript
 import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@v0.1.0-deno/mod.js';
 ```
 
@@ -131,7 +136,7 @@ var out = parseNDJSON( str, reviver );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@v0.1.0-deno/mod.js';
+import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@deno/mod.js';
 
 var out = parseNDJSON( '{"name":"John"}\n{"name":"Doe"}' );
 // returns [ { 'name': 'John' }, { 'name': 'Doe' } ]
