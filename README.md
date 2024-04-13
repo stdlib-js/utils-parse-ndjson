@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-parse-ndjson/tags). For example,
+
+```javascript
 import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@v0.1.0-esm/index.mjs';
 ```
 
@@ -136,7 +141,7 @@ var out = parseNDJSON( str, reviver );
 <body>
 <script type="module">
 
-import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@v0.1.0-esm/index.mjs';
+import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@esm/index.mjs';
 
 var out = parseNDJSON( '{"name":"John"}\n{"name":"Doe"}' );
 // returns [ { 'name': 'John' }, { 'name': 'Doe' } ]
