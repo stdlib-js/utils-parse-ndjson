@@ -42,7 +42,7 @@
     "@stdlib/assert-is-string": "^0.2.1",
     "@stdlib/assert-is-whitespace": "^0.2.1",
     "@stdlib/regexp-eol": "^0.2.1",
-    "@stdlib/string-format": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1",
     "@stdlib/utils-parse-json": "^0.2.1",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
