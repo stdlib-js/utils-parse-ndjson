@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@deno/mod.js';
+import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@v0.1.0-deno/mod.js';
 ```
 
 #### parseNDJSON( str\[, reviver] )
@@ -131,7 +131,7 @@ var out = parseNDJSON( str, reviver );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@deno/mod.js';
+import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@v0.1.0-deno/mod.js';
 
 var out = parseNDJSON( '{"name":"John"}\n{"name":"Doe"}' );
 // returns [ { 'name': 'John' }, { 'name': 'Doe' } ]
