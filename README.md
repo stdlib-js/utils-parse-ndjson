@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@esm/index.mjs';
+import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@v0.1.1-esm/index.mjs';
 ```
 
 #### parseNDJSON( str\[, reviver] )
@@ -136,7 +136,7 @@ var out = parseNDJSON( str, reviver );
 <body>
 <script type="module">
 
-import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@esm/index.mjs';
+import parseNDJSON from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-parse-ndjson@v0.1.1-esm/index.mjs';
 
 var out = parseNDJSON( '{"name":"John"}\n{"name":"Doe"}' );
 // returns [ { 'name': 'John' }, { 'name': 'Doe' } ]
