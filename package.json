@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-parse-ndjson",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parse a string as Newline-Delimited JSON (NDJSON).",
   "license": "Apache-2.0",
   "author": {
@@ -38,18 +38,18 @@
   },
   "dependencies": {
     "tape": "^5.7.5",
-    "@stdlib/assert-is-function": "^0.2.1",
-    "@stdlib/assert-is-string": "^0.2.1",
+    "@stdlib/assert-is-function": "^0.2.2",
+    "@stdlib/assert-is-string": "^0.2.2",
     "@stdlib/assert-is-whitespace": "^0.2.1",
-    "@stdlib/regexp-eol": "^0.2.1",
-    "@stdlib/string-format": "^0.2.1",
-    "@stdlib/utils-parse-json": "^0.2.1",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
+    "@stdlib/regexp-eol": "^0.2.2",
+    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/utils-parse-json": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/assert-is-error": "^0.2.1",
+    "@stdlib/assert-is-error": "^0.2.2",
     "@stdlib/string-from-code-point": "^0.2.1",
-    "@stdlib/utils-noop": "^0.2.1",
+    "@stdlib/utils-noop": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
