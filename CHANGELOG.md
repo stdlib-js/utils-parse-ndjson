@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-08-01)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2024-07-27)
@@ -16,46 +50,7 @@ No changes reported for this release.
 
 ## 0.1.0 (2024-04-13)
 
-<section class="features">
-
-### Features
-
--   [`8d6f33c`](https://github.com/stdlib-js/stdlib/commit/8d6f33c6b2162168d9855080d5cc261f4f9bfd9e) - add `utils/parse-ndjson`
-
-</section>
-
-<!-- /.features -->
-
-<section class="commits">
-
-### Commits
-
-<details>
-
--   [`a3fbf67`](https://github.com/stdlib-js/stdlib/commit/a3fbf67720b3d1963b27c1097bd8144397ac0ec1) - **docs:** update related packages sections [(#1857)](https://github.com/stdlib-js/stdlib/pull/1857) _(by stdlib-bot)_
--   [`8d6f33c`](https://github.com/stdlib-js/stdlib/commit/8d6f33c6b2162168d9855080d5cc261f4f9bfd9e) - **feat:** add `utils/parse-ndjson` _(by Manik Sharma, stdlib-bot, Shubham Singh, Philipp Burckhardt, Athan Reines)_
-
-</details>
-
-</section>
-
-<!-- /.commits -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 5 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Manik Sharma
--   Philipp Burckhardt
--   Shubham Singh
--   stdlib-bot
-
-</section>
-
-<!-- /.contributors -->
+No changes reported for this release.
 
 </section>
 

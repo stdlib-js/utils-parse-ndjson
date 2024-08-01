@@ -40,7 +40,7 @@
     "tape": "^5.7.5",
     "@stdlib/assert-is-function": "^0.2.2",
     "@stdlib/assert-is-string": "^0.2.2",
-    "@stdlib/assert-is-whitespace": "^0.2.1",
+    "@stdlib/assert-is-whitespace": "^0.2.2",
     "@stdlib/regexp-eol": "^0.2.2",
     "@stdlib/string-format": "^0.2.2",
     "@stdlib/utils-parse-json": "^0.2.2",
@@ -48,12 +48,12 @@
   },
   "devDependencies": {
     "@stdlib/assert-is-error": "^0.2.2",
-    "@stdlib/string-from-code-point": "^0.2.1",
+    "@stdlib/string-from-code-point": "^0.2.2",
     "@stdlib/utils-noop": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.1"
+    "@stdlib/bench-harness": "^0.2.2"
   },
   "engines": {
     "node": ">=0.10.0",
