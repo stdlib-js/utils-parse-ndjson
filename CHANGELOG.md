@@ -45,13 +45,12 @@ No changes reported for this release.
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Manik Sharma
 -   Philipp Burckhardt
 -   Shubham Singh
--   stdlib-bot
 
 </section>
 
