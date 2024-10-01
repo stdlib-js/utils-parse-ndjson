@@ -50,7 +50,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 -   Athan Reines
 -   Manik Sharma
 -   Philipp Burckhardt
--   Shubham Singh
+-   Shubham Mishra
 
 </section>
 
